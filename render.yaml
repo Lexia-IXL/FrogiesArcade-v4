@@ -3,7 +3,7 @@ services:
 - type: web
   name: another rizz
   runtime: node
-  repo: https://gitlab.com/290989/FrogiesArcade-v4
+  repo: https://github.com/Lexia-IXL/FrogiesArcade-v4/blob/main/render.yaml
   plan: free
   region: oregon
   buildCommand: npm i
